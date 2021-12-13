@@ -1,0 +1,125 @@
+name,median_age,pop_under_20,life
+,,,
+Japan,48.6,17.0 %,84.5
+Germany,47.8,18.9 %,81.0
+Italy,46.5,17.7 %,83.3
+Hong Kong,45.6,16.2 %,85.4
+Greece,45.3,18.7 %,82.0
+Slovenia,44.9,19.6 %,81.4
+Portugal,44.6,18.2 %,80.9
+Austria,44.5,19.4 %,81.9
+Lithuania,44.5,20.0 %,76.6
+Latvia,44.4,21.0 %,75.7
+Croatia,43.9,19.3 %,78.6
+Spain,43.9,19.2 %,83.6
+Bulgaria,43.7,19.2 %,75.1
+Estonia,43.7,21.2 %,78.8
+Puerto Rico,43.6,22.2 %,80.2
+Hungary,43.6,19.4 %,76.3
+Serbia,43.4,21.2 %,75.8
+Czechia,43.3,20.3 %,79.2
+Bosnia and Herzegovina,43.3,19.6 %,77.4
+South Korea,43.2,17.4 %,83.3
+Finland,42.8,21.2 %,81.9
+Netherlands,42.8,21.6 %,82.1
+Switzerland,42.7,19.9 %,83.8
+Romania,42.5,20.7 %,75.7
+Malta,42.3,19.0 %,82.6
+Cuba,42.1,21.6 %,78.8
+Denmark,42.0,22.1 %,81.3
+Poland,41.9,19.8 %,78.1
+Canada,41.8,21.0 %,82.1
+Slovakia,41.8,20.4 %,77.6
+Virgin Islands,41.8,25.7 %,79.9
+France,41.7,23.6 %,82.7
+Belgium,41.6,22.6 %,81.8
+Ukraine,41.2,20.5 %,72.3
+Sweden,41.1,23.0 %,83.0
+Belarus,40.9,21.9 %,74.7
+Macao,40.8,17.8 %,84.3
+United Kingdom,40.6,23.1 %,81.3
+Russia,40.3,23.2 %,73.6
+Norway,39.5,23.2 %,82.9
+Thailand,39.0,22.8 %,77.3
+United States,38.5,24.8 %,78.9
+China,38.4,23.4 %,76.9
+United Arab Emirates,38.4,18.8 %,77.9
+Cyprus,37.9,22.7 %,81.0
+Ireland,37.8,27.2 %,82.4
+Moldova,37.7,20.9 %,72.1
+Australia,37.5,25.3 %,83.0
+Singapore,35.6,16.8 %,83.4
+Chile,35.5,25.7 %,80.1
+North Korea,34.6,27.1 %,72.3
+Albania,34.3,24.2 %,78.6
+Qatar,33.7,17.3 %,79.9
+Sri Lanka,33.7,31.5 %,77.1
+Lebanon,33.7,33.5 %,79.0
+Brazil,33.2,28.3 %,76.0
+Bahamas,32.8,29.9 %,73.9
+Tunisia,32.7,30.9 %,76.7
+Costa Rica,32.6,28.0 %,80.3
+Argentina,32.4,32.3 %,76.7
+Turkey,32.2,32.0 %,77.7
+Vietnam,31.9,29.9 %,75.4
+Kazakhstan,31.6,35.1 %,73.2
+Colombia,31.2,30.5 %,77.3
+Saudi Arabia,30.8,31.1 %,75.1
+Mongolia,29.8,37.8 %,70.0
+Guam,29.4,32.1 %,80.2
+Mexico,29.3,34.5 %,75.1
+Turkmenistan,29.2,38.8 %,68.3
+Burma,29.2,34.8 %,67.2
+Malaysia,29.2,31.7 %,76.2
+Bhutan,29.1,33.9 %,71.8
+Morocco,29.1,34.8 %,76.7
+Algeria,28.9,37.4 %,76.9
+Ecuador,28.8,36.2 %,77.1
+India,28.7,35.3 %,69.7
+Bangladesh,27.9,36.2 %,72.7
+Kyrgyzstan,27.3,40.3 %,71.7
+Nicaragua,27.3,38.6 %,74.5
+Cambodia,26.4,39.7 %,69.8
+Oman,26.2,26.7 %,77.6
+Libya,25.8,36.0 %,73.0
+Botswana,25.7,43.0 %,69.5
+Egypt,24.1,42.4 %,72.0
+Philippines,24.1,39.6 %,71.4
+Eswatini,23.7,48.6 %,60.5
+Gambia,21.8,54.6 %,62.1
+Namibia,21.8,46.5 %,63.7
+Iraq,21.2,48.0 %,70.6
+Mauritania,21.0,49.8 %,64.9
+Zimbabwe,20.5,52.9 %,61.4
+Ivory Coast,20.3,52.5 %,57.8
+Eritrea,20.3,0.0 %,66.4
+Yemen,19.8,49.6 %,66.1
+Ethiopia,19.8,51.2 %,66.6
+Rwanda,19.7,49.9 %,69.0
+Timor-Leste,19.6,48.4 %,69.5
+Afghanistan,19.5,53.7 %,64.8
+Congo,19.5,51.7 %,64.6
+Senegal,19.4,53.1 %,67.9
+Sao Tome and Principe,19.3,53.2 %,70.4
+Guinea,19.1,54.6 %,61.5
+Sierra Leone,19.1,51.3 %,54.7
+Nigeria,18.6,54.1 %,54.7
+South Sudan,18.6,52.1 %,57.9
+Cameroon,18.5,52.8 %,59.3
+Somalia,18.5,57.6 %,57.4
+Sudan,18.3,50.7 %,65.3
+Tanzania,18.2,54.3 %,65.4
+Guinea-Bissau,18.0,52.5 %,58.3
+Liberia,18.0,51.3 %,64.1
+Burkina Faso,17.9,55.4 %,61.5
+Burundi,17.7,55.5 %,61.6
+Benin,17.0,52.6 %,61.8
+Mozambique,17.0,55.4 %,60.8
+Zambia,16.9,55.6 %,63.9
+Malawi,16.8,54.4 %,64.3
+Congo (Dem. Republic),16.7,56.4 %,60.7
+Chad,16.1,57.8 %,54.3
+Mali,16.0,58.1 %,59.3
+Angola,15.9,57.1 %,61.3
+Uganda,15.7,57.5 %,63.3
+Niger,14.8,60.6 %,62.4
