@@ -12,5 +12,4 @@ class CovidItem(scrapy.Item):
     total_deaths = scrapy.Field()
     total_recovered =scrapy.Field()
     active_cases = scrapy.Field()
-    serious_critical = scrapy.Field()
 

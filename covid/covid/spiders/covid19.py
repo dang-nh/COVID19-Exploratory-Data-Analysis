@@ -16,6 +16,5 @@ class Covid19Spider(scrapy.Spider):
             item['total_deaths'] = country.xpath(".//td[5]/text()").get()
             item['total_recovered'] = country.xpath(".//td[7]/text()").get()
             item['active_cases'] = country.xpath(".//td[9]/text()").get()
-            item['serious_critical'] = country.xpath(".//td[10]/text()").get()
             yield item
 
